@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_taoGiai"
+        android:icon="@drawable/baseline_add_circle_outline_24"
+        android:title="Tạo giải" />
+    <item
+        android:id="@+id/CauThu"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Cầu thủ"/>
+    <item
+        android:id="@+id/DoiBong"
+        android:icon="@drawable/baseline_supervised_user_circle_24"
+        android:title="Đội bóng"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="Đăng xuất" />
+</menu>
